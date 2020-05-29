@@ -24,5 +24,7 @@ public class employeeObjects {
         BA1.gathering();
         System.out.println(BA1);
 
+        System.out.println("Practice");
+
     }
 }
