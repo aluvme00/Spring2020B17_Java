@@ -1,7 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ddef762-a81a-4527-b128-81d4eb763080" name="Default Changelist" comment="" />
+    <list default="true" id="0ddef762-a81a-4527-b128-81d4eb763080" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Resources/AccessModifier_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Encapsulation_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/checkInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_DateTime/Time_Formatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/List_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/List_Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/List_intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ParseMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ValueOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Wrapper_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Methods2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/CombineTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/Uniques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/sumofdigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/ArrayList_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_ContainsAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_RetainAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_addAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_removeAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Remove_Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/MoveZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Move_zeros2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/CarObjects2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/ExtractChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/ExtractChars2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/ExtractChars3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Unique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/carObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/catObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/carpetObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/Offer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/OfferObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/StudentName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/HumanResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/staticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructor/BankOfAzerbaizan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructor/ConstructorIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructor/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructor/HumanResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructor/ImportStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructor/InstanceBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructor/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructor/carObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructor/studentObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructor/students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/EmployeeSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/ShoppingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/circleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/salaryCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/checkInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/personalInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/BankOfAmerica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/businessAnalyst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/employeeObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/audioBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/booksObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/eBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Resources/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Resources/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Resources/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Auto_Unboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Auto_Unboxing.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +108,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YjdAR8SfgthLsI7skeKlh62ZGL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,13 +124,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.LocalDate_Practice">
-    <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DateTime.Date" />
+  <component name="RunManager" selected="Application.employeeObjects">
+    <configuration name="BankOfAmerica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.BankOfAmerica" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DateTime.*" />
+          <option name="PATTERN" value="day41_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -40,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Date_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DateTime.Date_Formatting" />
+    <configuration name="booksObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.booksObjects" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DateTime.*" />
+          <option name="PATTERN" value="day41_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_Min" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DateTime.Find_Min" />
+    <configuration name="dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.dog" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DateTime.*" />
+          <option name="PATTERN" value="day41_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalDate_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.LocalDate_Practice" />
+    <configuration name="employeeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.Task01.employeeObjects" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28_DateTime.*" />
+          <option name="PATTERN" value="day41_Inheritance.Task01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unique_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DateTime.Unique_Arrays" />
+    <configuration name="fish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.fish" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DateTime.*" />
+          <option name="PATTERN" value="day41_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LocalDate_Practice" />
-        <item itemvalue="Application.Date_Formatting" />
-        <item itemvalue="Application.Date" />
-        <item itemvalue="Application.Unique_Arrays" />
-        <item itemvalue="Application.Find_Min" />
+        <item itemvalue="Application.employeeObjects" />
+        <item itemvalue="Application.booksObjects" />
+        <item itemvalue="Application.dog" />
+        <item itemvalue="Application.fish" />
+        <item itemvalue="Application.BankOfAmerica" />
       </list>
     </recent_temporary>
   </component>
@@ -113,73 +211,130 @@
       <option name="presentableId" value="Default" />
       <updated>1583459793406</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day29 Class">
+      <created>1588279467623</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588279467623</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day29 Class">
+      <created>1588279570276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588279570276</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Time">
+      <created>1588279703758</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588279703758</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="WrapperClass.java" />
+    <MESSAGE value="Day29 Class" />
+    <MESSAGE value="Time" />
+    <option name="LAST_COMMIT_MESSAGE" value="Time" />
   </component>
   <component name="WindowStateProjectService">
     <state x="400" y="34" key="#Ternary2" timestamp="1584980114968">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="400" y="34" key="#Ternary2/0.0.1366.728@0.0.1366.728" timestamp="1584980114968" />
-    <state x="479" y="249" width="418" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586447610406">
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1590779770886">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="479" y="249" width="418" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1586447610406" />
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590779770886" />
+    <state x="479" y="249" width="418" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588279690245">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="249" width="418" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1588279690245" />
     <state x="441" y="246" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586274145315">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="441" y="246" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1586274145315" />
-    <state width="1323" height="207" key="GridCell.Tab.0.bottom" timestamp="1587737919356">
+    <state x="312" y="0" key="CommitChangelistDialog2" timestamp="1588279702839">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587737919356" />
-    <state width="1323" height="207" key="GridCell.Tab.0.center" timestamp="1587737919356">
+    <state x="312" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588279702839" />
+    <state x="129" y="55" key="DiffContextDialog" timestamp="1588279396020">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587737919356" />
-    <state width="1323" height="207" key="GridCell.Tab.0.left" timestamp="1587737919356">
+    <state x="129" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1588279396020" />
+    <state width="1323" height="207" key="GridCell.Tab.0.bottom" timestamp="1590787191208">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587737919356" />
-    <state width="1323" height="207" key="GridCell.Tab.0.right" timestamp="1587737919356">
+    <state width="1323" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590787191208" />
+    <state width="1323" height="207" key="GridCell.Tab.0.center" timestamp="1590787191208">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587737919356" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1587411110458">
+    <state width="1323" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590787191208" />
+    <state width="1323" height="207" key="GridCell.Tab.0.left" timestamp="1590787191207">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587411110458" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1587411110458">
+    <state width="1323" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590787191207" />
+    <state width="1323" height="207" key="GridCell.Tab.0.right" timestamp="1590787191208">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587411110458" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1587411110458">
+    <state width="1323" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590787191208" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1587741353238">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587411110458" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1587411110458">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587741353238" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1587741353238">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587411110458" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587741353238" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1587741353238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587741353238" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1587741353238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587741353238" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1583462683711">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583462683711" />
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587132299402">
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1589473970664">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587132299402" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589473970664" />
     <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1585059430325">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1585059430325" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1585239962768">
+    <state x="65" y="0" key="new project wizard" timestamp="1587741348690">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585239962768" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585596966817">
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587741348690" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1590435584596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585596966817" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1590435584596" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590780303511">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590780303511" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

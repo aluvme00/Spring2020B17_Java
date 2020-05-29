@@ -1,79 +1,63 @@
 package Resources;
 
-public class Library { public static void main(String[] args) {
+import java.util.ArrayList;
+
+public class Library {
+    public static void main(String[] args) {
 
 
+        String str = "ABABABABAB";
 
 
-
-    String str = "ABABABABAB";
-
+        String result = "";      //AB
 
 
-    String result =  "";      //AB
-
-
-
-    for(int i = 0; i < str.length(); i++){
-
-        char ch = str.charAt(i); //B
-
-        if( !result.contains(""+ch) ){
-
-            result += ch;
-
-        }
-
-
-
-    }
-
-
-
-    System.out.println(result);
-
-
-
-
-
-    String str2 = "ABCABCABC";
-
-
-
-    String result2 = RemoveDuplicates(str2);  //ABC
-
-
-
-    System.out.println(result2);
-
-
-
-
-
-}
-
-
-
-    public static String RemoveDuplicates(String str){
-
-        String result =  "";      //AB
-
-
-
-        for(int i = 0; i < str.length(); i++){
+        for (int i = 0; i < str.length(); i++) {
 
             char ch = str.charAt(i); //B
 
-            if( !result.contains(""+ch) ){
+            if (!result.contains("" + ch)) {
 
                 result += ch;
 
             }
 
 
-
         }
 
+
+        System.out.println(result);
+
+
+        String str2 = "ABCABCABC";
+
+
+        String result2 = RemoveDuplicates(str2);  //ABC
+
+
+        System.out.println(result2);
+
+
+    }
+
+
+    public static String RemoveDuplicates(String str) {
+
+        String result = "";      //AB
+
+
+        for (int i = 0; i < str.length(); i++) {
+
+            char ch = str.charAt(i); //B
+
+            if (!result.contains("" + ch)) {
+
+                result += ch;
+
+            }
+
+
+        }
 
 
         return result;
@@ -83,8 +67,8 @@ public class Library { public static void main(String[] args) {
     public static void Reverse(String[] args) {
 
         String str = "Java is fun";
-        int lastIndex = str.length()-1;
-        for (int i = lastIndex; i >= 0 ; i--){
+        int lastIndex = str.length() - 1;
+        for (int i = lastIndex; i >= 0; i--) {
             System.out.print(str.charAt(i));
         }
     }
@@ -111,7 +95,8 @@ public class Library { public static void main(String[] args) {
 
         return result;
     }
-    public static int frequency (String str, char ch) {
+
+    public static int frequency(String str, char ch) {
         char arr[] = str.toCharArray();
         int count = 0;
         for (char each : arr) {
@@ -121,6 +106,7 @@ public class Library { public static void main(String[] args) {
         }
         return count;
     }
+
     public static String Unique(String str) {
         String result = "";
         for (int i = 0; i < str.length(); i++) {
